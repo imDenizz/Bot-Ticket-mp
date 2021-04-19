@@ -1,0 +1,45 @@
+
+--------EN--------
+
+Change in config.json:
+
+"TOKEN" by your bot token
+
+"YOUR PREFIX" by your bot prefix
+
+"GUILD ID" by your guild ID
+
+"YOUR GUILD SUPPORT ROLE ID" by your guild support role ID
+
+
+Ton download all modules:
+
+"npm i discord.js fs"
+
+
+To start the bot:
+
+"node ."
+
+
+--------FR--------
+
+Changement dans config.json:
+
+"TOKEN" par votre token bot
+
+"YOUR PREFIX" par le préfixe de votre bot
+
+"GUILD ID" par votre identifiant de guild
+
+"YOUR GUILD SUPPORT ROLE ID" par votre ID de rôle de soutien de guild
+
+
+Téléchargez tous les modules:
+
+"npm i discord.js fs"
+
+
+Pour démarrer le bot:
+
+"node ."
